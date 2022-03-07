@@ -1,0 +1,13 @@
+* Harbull 
+
+| Objet               | ENC |
+|---------------------+-----|
+| fronde              |  10 |
+| dague               |  10 |
+| vêtements de voyage |  10 |
+| gibecière (plante)  |   5 |
+| pilon et mortier    |  10 |
+| bouilloire, etc.    |  10 |
+| total               |  45 |
+#+TBLFM: @>$>=vsum(@2..@-1)
+

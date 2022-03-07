@@ -1,0 +1,12 @@
+| PJ      | CO | Pistoles | Sous |
+|---------+----+----------+------|
+| Harbull |  7 |        4 |  222 |
+| Wanda   |  6 |        4 |  222 |
+| Johann  |  8 |        4 |  222 |
+| Malmir  |  8 |        4 |   22 |
+| Kristen |  8 |        4 |  222 |
+| Werner  |  2 |        4 |  222 |
+| Totaux  | 39 |       24 | 1132 |
+#+TBLFM: @>$>=vsum(@2..@-1)
+#+TBLFM: @>$2=vsum(@2..@-1)
+#+TBLFM: @>$3=vsum(@2..@-1)
