@@ -1,0 +1,7 @@
+Ce dépôt sert de note pour suivre une instance de la campagne l'ennemi
+intérieur. On y trouve :
+
+- [[./chronique_2512.org][la chronique de l'année 2512]] ;
+- [[./comptes.org][les comptes des aventuriers]] ;
+- [[./encombrement.org][l'encombrement des aventuriers]].
+
