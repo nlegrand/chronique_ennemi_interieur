@@ -2,7 +2,7 @@
 
 ** Jahrdrung
 
-*** 24
+*** 24 Festag
 
 Début de l'aventure ([[./erreur_sur_la_personne.org][Erreur sur la personne]]), les aventuriers arrivent
 en soirée au relais du Cocher et ses chevaux.
@@ -36,7 +36,7 @@ Malmir  10 CO 10/31
 Kristen 10 CO 8/231
 Werner   4 CO 8/231
 
-*** 25
+*** 25 Wellentag
 
 Départ pour Altdorf. Les cochers ont la gueule de bois. Harbull leur
 fournit un petit remède qui lui permet de voyager gratuitement. Sur la
@@ -74,17 +74,17 @@ Kristen  8 CO 4/222
 Werner   2 CO 4/222
 
 
-*** 26
+*** 26 Aubentag
 
 Départ puis arrivée à Altdorf en fin d'après-midi.
 
-*** 27
-*** 28
-*** 29
-*** 30
-*** 31
-*** 32
-*** 33
+*** 27 Marktag
+*** 28 Backertag
+*** 29 Bezahltag
+*** 30 Konistag
+*** 31 Angerstag
+*** 32 Festag 
+*** 33 Wellentag
 
 ** Pflugzeit
 
