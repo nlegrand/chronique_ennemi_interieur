@@ -18,23 +18,25 @@ Tout le monde part se coucher.
 
 **** Comptes
 
-Harbull 11 CO /-
-Wanda   10 CO /-
-Johann  12 CO /-
-Malmir  12 CO /-
-Kristen 12 CO /-
-Werner   6 CO /-
+| Harbull | 11 CO /- |
+| Wanda   | 10 CO /- |
+| Johann  | 12 CO /- |
+| Malmir  | 12 CO /- |
+| Kristen | 12 CO /- |
+| Werner  | 6 CO /-  |
 
-Coût de la nuit : 2/
-Coût du repas et de la bière : 2/9
-Malmire récolte 1 pistole et 40 sous pour sa musique.
+| Coût de la nuit              | 2/  |
+| Coût du repas et de la bière | 2/9 |
 
-Harbull  9 CO 8/231
-Wanda    8 CO 8/231
-Johann  10 CO 8/231
-Malmir  10 CO 10/31
-Kristen 10 CO 8/231
-Werner   4 CO 8/231
+Malmire récolte 3 pistole et 8 sous pour sa musique.
+
+| Harbull | 9 CO 16/2  |
+| Wanda   | 8 CO 16/2  |
+| Johann  | 10 CO 16/2 |
+| Malmir  | 11 CO 19/11 |
+| Kristen | 10 CO 16/2 |
+| Werner  | 4 CO 16/2  |
+
 
 *** 25 Wellentag
 
@@ -62,16 +64,16 @@ devra se reposer encore avant d'être à nouveau complètement sur pied.
 
 **** Comptes
 
-Coût de la nuit : 2/
-Coût du repas et de la bière : 2/9
-Coût du trajet : 2 CO
+| Coût de la nuit              | 2/   |
+| Coût du repas et de la bière | 3/   |
+| Coût du trajet               | 2 CO |
 
-Harbull  7 CO 4/222
-Wanda    6 CO 4/222
-Johann   8 CO 4/222
-Malmir   8 CO 4/22
-Kristen  8 CO 4/222
-Werner   2 CO 4/222
+| Harbull | 7 CO 11/2  |
+| Wanda   | 6 CO 9/2   |
+| Johann  | 8 CO 16/2  |
+| Malmir  | 8 CO 14/11 |
+| Kristen | 8 CO 16/2  |
+| Werner  | 2 CO 16/2  |
 
 
 *** 26 Aubentag
