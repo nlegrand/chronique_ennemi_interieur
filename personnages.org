@@ -60,7 +60,7 @@ Les PJ dépensent en moyenne 36 sous par jour, 60 s'ils passent la nuit
  | 1 dague             |  10 |
  | vêtements ordinaire |  10 |
  | gibecière           |  10 |
-Mis | arbalette           | 120 |
+ | arbalète            | 120 |
  | carreaux            |  40 |
  | total               | 190 |
  #+TBLFM: @>$2=vsum(@2..@-1)
