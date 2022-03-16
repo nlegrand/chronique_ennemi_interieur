@@ -5,7 +5,6 @@
 
 | 2022-03-04 | 100 |
 | 2022-03-11 | 100 |
-|------------+-----|
 |      total | 200 |
 #+TBLFM: @>$2=vsum(@1..@-1)
 
@@ -61,9 +60,8 @@ Les PJ dépensent en moyenne 36 sous par jour, 60 s'ils passent la nuit
  | 1 dague             |  10 |
  | vêtements ordinaire |  10 |
  | gibecière           |  10 |
- | arbalette           | 120 |
+Mis | arbalette           | 120 |
  | carreaux            |  40 |
- |---------------------+-----|
  | total               | 190 |
  #+TBLFM: @>$2=vsum(@2..@-1)
 
@@ -76,7 +74,6 @@ Les PJ dépensent en moyenne 36 sous par jour, 60 s'ils passent la nuit
  | sac à dos          |  20 |
  | vêtement de voyage |  15 |
  | Chemise de maille  |  80 |
- |--------------------+-----|
  | total              | 225 |
  #+TBLFM: @>$2=vsum(@2..@-1)
 
@@ -101,7 +98,6 @@ Les PJ dépensent en moyenne 36 sous par jour, 60 s'ils passent la nuit
  | 3 couteaun de lancer |  30 |
  | vêtements ordinaire  |  12 |
  | 1 grand sac          |   7 |
- |----------------------+-----|
  | total                | 109 |
  #+TBLFM: @6$2=vsum(@2..@-1)
 
@@ -118,6 +114,5 @@ Les PJ dépensent en moyenne 36 sous par jour, 60 s'ils passent la nuit
  | vêtement de travail         |  15 |
  | cape avec capuchon          |  10 |
  | chemise de maille           |  80 |
- |-----------------------------+-----|
  | total                       | 375 |
  #+TBLFM: @>$2=vsum(@2..@-1)
