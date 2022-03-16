@@ -2,7 +2,7 @@
 
 ** Jahrdrung
 
-*** 24 Festag
+*** 24 Festag (partie du 2022-03-05)
 
 Début de l'aventure ([[./erreur_sur_la_personne.org][Erreur sur la personne]]), les aventuriers arrivent
 en soirée au relais du Cocher et ses chevaux.
@@ -28,7 +28,7 @@ Tout le monde part se coucher.
 | Coût de la nuit              | 2/  |
 | Coût du repas et de la bière | 2/9 |
 
-Malmire récolte 3 pistole et 8 sous pour sa musique.
+Malmir récolte 3 pistole et 8 sous pour sa musique.
 
 | Harbull | 9 CO 16/2  |
 | Wanda   | 8 CO 16/2  |
@@ -43,19 +43,19 @@ Malmire récolte 3 pistole et 8 sous pour sa musique.
 Départ pour Altdorf. Les cochers ont la gueule de bois. Harbull leur
 fournit un petit remède qui lui permet de voyager gratuitement. Sur la
 route les aventuriers tombent sur une horde de mutant qui venaient
-d'ambusquer et massacrer une calèche.
+d'embusquer et massacrer une calèche.
 
-Werner en tue courageusement un à la dague. Kirsten, Malmir et Harbull
+Werner en tue courageusement un à la dague. Kristen, Malmir et Harbull
 en défont un autre à distance, puis après avoir été terriblement
 frappé par Knud leur chef, Malmir tue ce dernier d'une flèche. Malmir
 est grièvement blessé, Harbull n'arrive pas à le soigner.
 
-Kirsten trouve un cadavre ressemblant trait pour trait à Wanda. Dans
-la poche du cadavre un [[./erreur_sur_la_personne/ADJ/document 03 & 04.jpg][testament]] léguant une baronie et 20000 CO à
+Kristen trouve un cadavre ressemblant trait pour trait à Wanda. Dans
+la poche du cadavre un [[./erreur_sur_la_personne/ADJ/document 03 & 04.jpg][testament]] léguant une baronnie et 20000 CO à
 Kastelle Lieberung. Un autre papier stipule que la porteuse du
 document est bien Kastelle Lieberung.
 
-Dame Isolde fait monter sa bonniche et son garde du corps sur la
+Dame Isolde fait monter sa boniche et son garde du corps sur la
 calèche pour que Malmir soit confort à l'intérieur.
 
 Le soir au relais, Dame Isolde von Strudeldorf (sic) paie un
@@ -76,18 +76,57 @@ devra se reposer encore avant d'être à nouveau complètement sur pied.
 | Werner  | 2 CO 16/2  |
 
 
-*** 26 Aubentag
+*** 26 Aubentag (partie du 2024-03-11)
 
-Départ puis arrivée à Altdorf en fin d'après-midi.
+Départ puis arrivée à Altdorf en fin d'après-midi. Deux hommes
+étranges font des signes à Wanda sans que celle-ci n'en comprenne la
+signification, les deux hommes finissent pas se lancer à la suite d'un
+homme trapue. Les aventuriers rencontre Josef Quartjin, un vieil ami
+de Johann, qui leur propose de les embaucher pour l'aider à mener sa
+barge à Bögenhaffen.
+
+Dans une auberge, les joueurs se font provoquer par des jeunes nobles
+stupides et fins saouls. Un début de bagarre se déclenche puis tout le
+monde s'en va.
+
+En allant au bateau les aventuriers remarquent que les deux hommes
+étranges qui avaient fait des signes à Wanda les suivent. Les joueurs
+cherchent à les piéger mais ils ne retrouvent que leurs cadavres,
+tués à coup de carreaux d'arbalète.
+
+En fouillant les cadavres, les aventuriers découvrent qu'ils portent
+tous les deux une main mauve tatouée sur le sein droit.
 
 *** 27 Marktag
+Le matin, les aventuriers apprennent qu'un des nobles qui les avaient
+provoqué avait été assassiné et qu'ils sont recherchés pour le
+meurtre ! Ils se dépêchent alors de partir pour Bögenhaffen en prenant
+le canal de Weißbrück.
+
 *** 28 Backertag
+Journée paisible sur le canal
+
 *** 29 Bezahltag
+Arrivée à Weißbrück. Les aventuriers repèrent l'homme trapue aperçu à
+Altdorf, armé d'une arbalète. Sur leur garde, ils se font attaqués le
+soir par le même homme et trois brute qui incendie le bateau. Pendant
+que Josef et son équipage éteint le feu, les aventuriers tuent les
+brutes puis l'homme trapu, Adolphus Kuftsos.
+
+Ce dernier détient une lettre où on lui donne des renseignements sur
+une certaine Kastelle Lieberung dont le portrait ressemble trait pour
+trait à Wanda.
 *** 30 Konistag
+Journée paisible sur le canal.
 *** 31 Angerstag
+Journée paisible sur le canal.
 *** 32 Festag 
+Journée paisible sur le canal.
 *** 33 Wellentag
 
+Journée paisible sur le canal.
+*** Mitterfrühl (partie du 2024-03-18)
+    Arrivée à Bögenhaffen, début de la Schaffenfest.
 ** Pflugzeit
 
 *** 1

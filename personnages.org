@@ -4,32 +4,37 @@
 * l'xp :
 
 | 2022-03-04 | 100 |
+| 2022-03-11 | 100 |
 |------------+-----|
-|      total | 100 |
-#+TBLFM: @2$2=vsum(@1..@-1)
+|      total | 200 |
+#+TBLFM: @>$2=vsum(@1..@-1)
 
-* L'init
 
-|  I | Personnage       | B  |
-|----+------------------+----|
-| 65 | Malmir           | /5 |
-| 50 | Harbull          | /5 |
-| 47 | Johann           | /6 |
-| 45 | Adolphus Kuftsos | /8 |
-| 38 | Kirsten          | /6 |
-| 35 | Wanda            | /6 |
-| 31 | Werner           | /7 |
+
+* Les stats de combat
+
+| M | CC | CT | F | E | B   |  I | A | Personnage       | Arme           |
+|---+----+----+---+---+-----+----+---+------------------+----------------|
+| 5 | 40 | 33 | 3 | 3 | /5  | 65 | 1 | Malmir           | épée, arc long |
+| 4 | 23 | 33 | 2 | 2 | /5  | 50 | 1 | Harbull          | dague, fronde  |
+| 5 | 34 | 35 | 3 | 6 | /6  | 47 | 1 | Johann           | épée           |
+| 4 | 31 | 30 | 3 | 3 | 3/6 | 38 | 1 | Kristen          | épée           |
+| 4 | 34 | 31 | 2 | 3 | /6  | 35 | 1 | Wanda            | dague          |
+| 3 | 37 | 32 | 4 | 4 | /7  | 31 | 1 | Werner           | dague          |
 
 * les comptes
+Les PJ dépensent en moyenne 36 sous par jour, 60 s'ils passent la nuit
+à l'auberge.
+
 | PJ      | CO | Pistoles | Sous | totaux en sous |
 |---------+----+----------+------+----------------|
-| Harbull |  7 |       11 |    2 |           1814 |
-| Wanda   |  6 |        9 |    2 |           1550 |
-| Johann  |  8 |       16 |    2 |           2114 |
-| Malmir  |  8 |       14 |   11 |           2099 |
-| Kristen |  8 |       16 |    2 |           2114 |
-| Werner  |  2 |       16 |    2 |            674 |
-| Totaux  | 42 |       17 |    9 |          10365 |
+| Harbull | 13 |        9 |   10 |           3238 |
+| Wanda   | 12 |        7 |   10 |           2974 |
+| Johann  | 14 |       14 |   10 |           3538 |
+| Malmir  | 14 |        6 |    1 |           3433 |
+| Kristen | 14 |        7 |    4 |           3448 |
+| Werner  |  8 |       14 |    0 |           2088 |
+| Totaux  | 53 |        3 |    9 |          18719 |
 #+TBLFM: @2$2..@>$2=$5\240::@2$3..@>$3=($5\12)%20::@2$4..@>$4=$5%12::@8$5=vsum(@2..@7)
 
 * L'encombrement
@@ -56,9 +61,11 @@
  | 1 dague             |  10 |
  | vêtements ordinaire |  10 |
  | gibecière           |  10 |
+ | arbalette           | 120 |
+ | carreaux            |  40 |
  |---------------------+-----|
- | total               |  30 |
- #+TBLFM: @5$2=vsum(@2..@-1)
+ | total               | 190 |
+ #+TBLFM: @>$2=vsum(@2..@-1)
 
 ** Johann (max 400)
 
@@ -68,9 +75,10 @@
  | veste en cuir      |  50 |
  | sac à dos          |  20 |
  | vêtement de voyage |  15 |
+ | Chemise de maille  |  80 |
  |--------------------+-----|
- | total              | 145 |
- #+TBLFM: @6$2=vsum(@2..@-1)
+ | total              | 225 |
+ #+TBLFM: @>$2=vsum(@2..@-1)
 
 ** Malmir (max 300)
 
@@ -102,6 +110,7 @@
  | Object                      | ENC |
  |-----------------------------+-----|
  | 2 hachettes de lancer       |  80 |
+ | 1 épée                      |  80 |
  | 1 dague                     |  10 |
  | 1 veste en cuir             |  50 |
  | 1 casque                    |  30 |
@@ -110,5 +119,5 @@
  | cape avec capuchon          |  10 |
  | chemise de maille           |  80 |
  |-----------------------------+-----|
- | total                       | 295 |
- #+TBLFM: @10$2=vsum(@2..@-1)
+ | total                       | 375 |
+ #+TBLFM: @>$2=vsum(@2..@-1)
