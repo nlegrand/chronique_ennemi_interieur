@@ -155,10 +155,116 @@ Les aventuriers ont le temps de noter quelques détails :
 - prêt d’une armoire vous apercevez un mouchoir avec les initiales
   FS.
 
+En sortant des égouts, les aventuriers apprennent avec surprise que le
+gobelin dont ils ont vu les restes dans les égouts est dit avoir été
+tué par la chute d'une caisse dans un entrepôt au bord de la
+rivière. Ne pouvant être payé sans plus de preuve les aventuriers
+retournent dans les égouts. Le temple avait été complètement
+nettoyé. En allant plus loin, les aventuriers découvrent le corps
+mutilé de Gottri Gurnisson, le nain clodo bourré avec qui ils avaient
+sympathisé. Le cœur de ce dernier a été arraché.
+
+La garde n'est pas très impressionnée par la découverte des
+aventuriers et envoie le corps à la guilde des pleureurs. En cherchant
+à contacter Richter, ces derniers apprennent qu'il est brusquement
+tombé malade.
+
+Les aventuriers entendent parler d'un énergumène disant que la ville
+était condamnée et qu'on le verrait dans le visage de la lune.
+
+En faisant des recherches au temple de Verena, les aventuriers
+apprennent que l'ordo Septenarius est une société semi secrète de
+bienfaiteurs composée des grandes familles de marchand de la
+ville. Ils font régulièrement des donations aux temples de Shalya et
+de Bögenauer.
+
+Le soir, les aventuriers constatent médusés que Morslieb, la lune du
+chaos est pleine, ce qui est anormal en cette période de
+l'année. C'est en général signe de mauvais présage.
+
+Les aventuriers repèrent le bâtiment qui se trouve au dessus du temple
+des égouts, il s'agit des bureaux de la famille Steinhäger. Les
+aventuriers décident d'y rentrer par effraction la nuit. Il y trouve
+un [[file:ombres_sur_bogenhafen/ADJ/invitation_joannes.jpg][papier]] invitant tous les membres du conseil à se retrouver chez
+Johannes Teugen.
+
+En se dirigeant vers chez Teugen, mais n'arrivent que pour voir les
+membres invités partir de chez l'édile. Les rues se vident et la nuit
+devient paisible si ce n’est l’inquiétante présence de la Mallune.
+
+Wanda, Malmir et Harbull se rendent chez Teugen qui les reçoit. Teugen
+les rassure que la ville fait tout ce qui est en son pouvoir pour
+élucider le meurtre de Gottri et veiller à ce que rien de grave
+n'arrive. Les trois remarquent l'extrême paleur de Teugen, ses canines
+anormalement pointu et le vois boire un liquide rouge foncé et pâteux.
+
+
 ** PFLUGZEIT
 
 *** 1
+Le deuxième jour de la Schaffenfest, les aventuriers rendent visite à
+Richter. Ce dernier à les yeux et la langue gonflée. Harbulle
+reconnaît une maladie liée à une malédiction et connaît le remède. Il
+ne trouve pas les ingrédients nécessaires auprès d'Elvyra Kleinestun,
+l'herboriste et charlatan de Weissbrück. Il contacte plus tard le
+médecin de Richter, Reinhold Heichtdorn qui le remercie pour son
+diagnostique et son traitement. Sans traitement, Richter meurt dans la
+semaine.
+
+Plus tard, les aventuriers sont invités à la truite d'or par Friedrich
+Magirius. Ce dernier leur parle de l'Ordo Septenarius, en leur
+décrivant une œuvre de bienfaisance qui consiste à enrichir les plus
+riches familles de la ville pour que leurs richesse ruissellent sur
+les plus démunis.
+
+Les aventuriers croisent dans la journée Ulthar l'Instable qui
+harangue la foule :
+
+#+BEGIN_QUOTE
+J'en vois sept et j'en vois neuf et ils seront tous à moi, moi moi !
+L'étoile dans un cercle est un signe de mort.
+Prenez garde à l'homme qui n'est pas un homme.
+#+END_QUOTE
+
+Les aventuriers s'approchent de lui, il a peur à la vue de Wanda, la
+pointe du doigt en criant :
+
+#+BEGIN_QUOTE
+La marque est sur toi ! Prenez garde aux pourvoyeurs de Chaos !
+#+END_QUOTE
+
+Il s'enfuit ensuite. Plus tard dans la journée, les aventuriers
+apprennent qu'il s'est fait tuer chez lui.
+
+Kristen fait rencontrer aux aventuriers Baumann, le chef de la guilde
+des voleurs. Ce dernier a entendu des rumeurs de cris autour du temple
+des égouts. Les voleurs ont pu voir par moment des cadavres de clodo à
+qui on avait arraché le cœur dans les égouts. Baumann a l'air inquiet
+des craintes exprimées par Werner et propose de rester en contact avec
+les aventuriers.
+
+Le soir, la Mallune semble avoir grossi dans le ciel. Elle se
+rapproche de la ville et arbore un rictus dément.
+
 *** 2
+Le lendemain, Harbulle reçoit une missive du docteur Heichtdorn :
+
+#+BEGIN_QUOTE
+Cher confrère,
+
+après vérification, votre diagnostique semble être le bon et je vais
+mettre en place le traitement pour sauver le magistrat Richter. Un
+grand merci pour votre aide. C'est la deuxième fois que cette maladie
+étrange frappe à Bögenhaffen, j'espère que cette fois, nous pourrons
+sauver celui qui la porte !
+
+Veuillez agréer monsieur à l'expression de mes salutations les plus
+sincères,
+
+Heichtdorn
+#+END_QUOTE
+
+
 *** 3
 *** 4
 *** 5
