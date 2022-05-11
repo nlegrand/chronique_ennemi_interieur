@@ -201,7 +201,7 @@ anormalement pointu et le vois boire un liquide rouge foncé et pâteux.
 
 ** PFLUGZEIT
 
-*** 1
+*** 1 Wellentag
 Le deuxième jour de la Schaffenfest, les aventuriers rendent visite à
 Richter. Ce dernier à les yeux et la langue gonflée. Harbulle
 reconnaît une maladie liée à une malédiction et connaît le remède. Il
@@ -246,7 +246,7 @@ les aventuriers.
 Le soir, la Mallune semble avoir grossi dans le ciel. Elle se
 rapproche de la ville et arbore un rictus dément.
 
-*** 2
+*** 2 Aubentag
 Le lendemain, Harbulle reçoit une missive du docteur Heichtdorn :
 
 #+BEGIN_QUOTE
