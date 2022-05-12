@@ -125,7 +125,7 @@ Journée paisible sur le canal.
 *** 33 Wellentag
 
 Journée paisible sur le canal.
-*** Mitterfrühl (partie du 2024-03-18)
+** Mitterfrühl (partie du 2024-03-18)
 Arrivée à Bögenhaffen, début de la Schaffenfest.
 
 Les aventuriers apprennent que l'héritage était en fait un canular.
@@ -196,7 +196,8 @@ Wanda, Malmir et Harbull se rendent chez Teugen qui les reçoit. Teugen
 les rassure que la ville fait tout ce qui est en son pouvoir pour
 élucider le meurtre de Gottri et veiller à ce que rien de grave
 n'arrive. Les trois remarquent l'extrême paleur de Teugen, ses canines
-anormalement pointu et le vois boire un liquide rouge foncé et pâteux.
+anormalement pointu et le voient boire un liquide rouge foncé et
+pâteux.
 
 
 ** PFLUGZEIT
