@@ -52,7 +52,9 @@
 | Identification des plantes          |   |
 | Sens de la magie                    |   |
 
+
 | PM | 6 |
+
 
 | Sortilèges | NS | PM | P | D    | composants         | Effets                                  |
 |------------+----+----+---+------+--------------------+-----------------------------------------|
