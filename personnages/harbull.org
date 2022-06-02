@@ -1,8 +1,10 @@
 | Nom              | Race      | Sexe     | Vocation | Alignement |
 | Harbull Pédipoil | Halfeling | Masculin | Lettré   | Neutre     |
 
+
 | Âge    | Taille | Poids   | Cheveux | Yeux         |
 | 29 ans |   1.15 | 47,5 kg | Blonds  | marron foncé |
+
 
 | Carrière actuelle    | Cheminement professionnel | Débouchés                                       |
 |----------------------+---------------------------+-------------------------------------------------|
@@ -16,6 +18,7 @@
 | Plan de carrière |   |    |    |   |   | +1 x | +10 |   |     |    | +10 x | +10 |    |     |
 | Profil actule    | 4 | 23 | 33 | 2 | 2 |    6 |  50 | 1 |  52 | 22 |    40 |  23 | 44 |  40 |
 
+
 | 810 | total xp            |
 | 100 | Dex                 |
 | 100 | B                   |
@@ -23,6 +26,7 @@
 | 100 | Étudiant en médecin |
 | 410 | Reste à depenser    |
 #+TBLFM: @>$1=@1-vsum(@2..@-1)
+
 
 | Compétences acquises                  |      |
 | Alphabétisation                       |      |
