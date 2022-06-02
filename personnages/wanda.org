@@ -56,9 +56,9 @@
 | PM | 6 |
 
 
-| Sortilèges | NS | PM | P | D    | composants         | Effets                                  |
-|------------+----+----+---+------+--------------------+-----------------------------------------|
-| Ouverture  | M  |  3 | 1 | Inst | 1 clé d’argent     | Dévérouille les fermetures non magiques |
-| Sommeil    | M  |  2 | T | 1d6  | 1 morceau de duvet | Endort une créature de moins de 3 m     |
+| Sortilèges | NS | PM | P | D         | composants         | Effets                                  |
+|------------+----+----+---+-----------+--------------------+-----------------------------------------|
+| Ouverture  | M  |  3 | 1 | Inst      | 1 clé d’argent     | Dévérouille les fermetures non magiques |
+| Sommeil    | M  |  2 | T | 1d6 tours | 1 morceau de duvet | Endort une créature de moins de 3 m     |
 
 
