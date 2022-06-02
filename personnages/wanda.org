@@ -1,0 +1,62 @@
+| Nom               | Race    | Sexe    | Vocation | Alignement |
+|-------------------+---------+---------+----------+------------|
+| Wanda Weltshmertz | Humaine | Féminen | Lettré   | Neutre     |
+
+
+| Âge    | Taille | Poids | Cheveux  | Yeux  |
+| 24 ans |   1.62 | 56 kg | mordorés | bleus |
+
+
+| Carrière actuelle | Cheminement professionnel | Débouchés     |
+|-------------------+---------------------------+---------------|
+| Sorcière nv 1     | Apprentie sorcière        | Sorcière nv 2 |
+
+
+
+|                  | M | CC | CT | F | E |    B |   I | A |   Dex | Cd |    Int | Cl | FM | Soc |
+|------------------+---+----+----+---+---+------+-----+---+-------+----+--------+----+----+-----|
+| Profil initial   | 4 | 34 | 31 | 2 | 3 |    6 |  33 | 1 |    29 | 33 |     36 | 30 | 34 |  31 |
+| Plan de carrière |   |    |    |   |   | +2 x | +10 |   | +10 x |    | + 10 x |    |  x |     |
+|------------------+---+----+----+---+---+------+-----+---+-------+----+--------+----+----+-----|
+| Profil actule    | 4 | 34 | 31 | 2 | 3 |    7 |  33 | 1 |    39 | 33 |     46 | 30 | 44 |  31 |
+
+
+| 910 | total xp                           |
+|-----+------------------------------------|
+| 100 | Dex                                |
+| 100 | B                                  |
+| 100 | Int                                |
+| 100 | FM                                 |
+| 100 | Sorcière nv 1                      |
+| 100 | Incantation magie de bataille nv 1 |
+|-----+------------------------------------|
+| 310 | Reste à dépenser                   |
+#+TBLFM: @>$1=@1-vsum(@2..@-1)
+
+
+| Compétences acquises               |      |
+|------------------------------------+------|
+| Alphabétisation                    |      |
+| Astronomie                         |      |
+| Connaissances des parchemins       |      |
+| Héraldique                         |      |
+| Incantation, magie mineure         |      |
+| Incatation, magie de bataille nv 1 |      |
+| Langage secret, classique          |      |
+| Langage hermétique, makigane       |      |
+
+
+| Compétences de la carrière en cours |   |
+|-------------------------------------+---|
+| Connaissance des runes              |   |
+| Identification des plantes          |   |
+| Sens de la magie                    |   |
+
+| PM | 6 |
+
+| Sortilèges | NS | PM | P | D    | composants         | Effets                                  |
+|------------+----+----+---+------+--------------------+-----------------------------------------|
+| Ouverture  | M  |  3 | 1 | Inst | 1 clé d’argent     | Dévérouille les fermetures non magiques |
+| Sommeil    | M  |  2 | T | 1d6  | 1 morceau de duvet | Endort une créature de moins de 3 m     |
+
+
