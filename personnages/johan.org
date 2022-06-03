@@ -1,0 +1,59 @@
+| Nom               | Race    | Sexe    | Vocation | Alignement |
+|-------------------+---------+---------+----------+------------|
+| johan Dassbüt | Humain  | Masculin | Forestier | Neutre     |
+
+
+| Âge    | Taille | Poids | Cheveux       | Yeux     |
+| 35 ans |   1.76 | 80 kg | Chatain clair | noisette |
+
+
+| Carrière actuelle | Cheminement professionnel | Débouchés               |
+|-------------------+---------------------------+-------------------------|
+| Contrebandier     | Batelier                  | Receleur, marin, pilote |
+
+
+
+|                  | M |    CC |     CT | F   | E |     B | I     | A | Dex | Cd | Int | Cl | FM | Soc |
+|------------------+---+-------+--------+-----+---+-------+-------+---+-----+----+-----+----+----+-----|
+| Profil initial   | 4 |    34 |     35 | 4 * | 3 |     6 | 47 *  | 1 |  34 | 30 |  29 | 35 | 31 |  30 |
+| Plan de carrière |   | +10 x | +10  x |     |   | +2 xx | +10 x |   |     |    |     |    |    | +10 |
+|------------------+---+-------+--------+-----+---+-------+-------+---+-----+----+-----+----+----+-----|
+| Profil actuel    | 4 |    44 |     45 | 4   | 3 |     8 | 57    | 1 |  34 | 30 |  29 | 35 | 31 |  30 |
+
+
+
+| 910 | total xp                           |
+|-----+------------------------------------|
+| 100 | CC                                 |
+| 100 | CT                                 |
+| 100 | B                                  |
+| 100 | B                                  |
+| 100 | I                                  |
+| 100 | Contrebandier                      |
+|-----+------------------------------------|
+| 310 | Reste à dépenser                   |
+#+TBLFM: @>$1=@1-vsum(@2..@-1)
+
+
+| Compétences acquises                              |   |
+|---------------------------------------------------+---|
+| Ambidextrie                                       |   |
+| Canotage                                          |   |
+| Déplacement silencieux, rural                     |   |
+| Force accrue *(comptée dans le profil initial)    |   |
+| Natation                                          |   |
+| Orientation                                       |   |
+| Pêche                                             |   |
+| Potamologie                                       |   |
+| Réflexes éclair *(comptés dans le profil initial) |   |
+
+
+| Compétences de la carrière en cours |   |   |
+|-------------------------------------+---+---|
+| Conduite d'attelage                 |   |   |
+| Déplacement silencieux, urbain      |   |   |
+| Résistance à l'alcool               |   |   |
+| Langage secret, langage des voleurs |   |   |
+| Nouvelle langue                     |   |   |
+
+
