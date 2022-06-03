@@ -6,5 +6,6 @@ intérieur. On y trouve :
 - [[./encombrement.org][l'encombrement des aventuriers]] :
 - les fiches de personnages de la campagne :
   - [[file:personnages/harbull.org][Harbull]],
-  - [[file:personnages/wanda.org][Wanda]].
+  - [[file:personnages/wanda.org][Wanda]],
+  - [[file:personnages/johan.org][Johan]].
 
