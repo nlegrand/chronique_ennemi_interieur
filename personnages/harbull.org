@@ -21,14 +21,14 @@
 | Profil actule    | 4 | 23 | 33 | 2 | 2 |    6 |  50 | 1 |  52 | 22 |    40 |  23 | 44 |  40 |
 
 
-| 810 | total xp            |
+| 910 | total xp            |
 |-----+---------------------|
 | 100 | Dex                 |
 | 100 | B                   |
 | 100 | Int                 |
 | 100 | Étudiant en médecin |
 |-----+---------------------|
-| 410 | Reste à depenser    |
+| 510 | Reste à depenser    |
 #+TBLFM: @>$1=@1-vsum(@2..@-1)
 
 
