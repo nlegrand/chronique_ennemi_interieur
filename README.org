@@ -7,5 +7,6 @@ intérieur. On y trouve :
 - les fiches de personnages de la campagne :
   - [[file:personnages/harbull.org][Harbull]],
   - [[file:personnages/wanda.org][Wanda]],
-  - [[file:personnages/johan.org][Johan]].
-
+  - [[file:personnages/johan.org][Johan]],
+  - [[file:personnages/malmir.org][Malmir]],
+  - [[file:personnages/werner.org][Werner]].

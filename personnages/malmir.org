@@ -1,0 +1,62 @@
+| Nom             | Race | Sexe     | Vocation | Alignement |
+|-----------------+------+----------+----------+------------|
+| Malmir Giluviel | Elfe | Masculin | Filou    | Bon        |
+
+
+| Âge    | Taille | Poids | Cheveux | Yeux  |
+| 55 ans | 1.76 m | 58 kg | ocre    | bleus |
+
+
+| Carrière actuelle | Cheminement professionnel | Débouchés         |
+|-------------------+---------------------------+-------------------|
+| Charlatan         | Mérestrel                 | Espion, Démagogue |
+
+
+|                  | M |     CC |      CT | F |  E |     B |     I | A |   Dex |  Cd | Int |  Cl |  FM |    Soc |
+|------------------+---+--------+---------+---+----+-------+-------+---+-------+-----+-----+-----+-----+--------|
+| Profil initial   | 5 |     40 |      33 | 3 |  3 |     5 |    65 | 1 |    45 |  36 |  52 |  57 |  42 |     44 |
+| Plan de carrière |   | + 10 x | + 10  x |   | +1 | +4 xx | +20 x |   | +20 x | +20 | +20 | +20 | +20 | +30  x |
+|------------------+---+--------+---------+---+----+-------+-------+---+-------+-----+-----+-----+-----+--------|
+| Profil actuel    | 4 |     50 |      43 | 3 |  3 |     7 |    75 | 1 |    55 |  36 |  52 |  57 |  42 |     54 |
+
+
+| 910 | total xp         |
+|-----+------------------|
+| 100 | CC               |
+| 100 | CT               |
+| 100 | B                |
+| 100 | B                |
+| 100 | I                |
+| 100 | Dex              |
+| 100 | Dex              |
+| 100 | Charlatan        |
+|-----+------------------|
+| 110 | Reste à dépenser |
+#+TBLFM: @>$1=@1-vsum(@2..@-1)
+
+
+| Compétences acquises   |      |
+|------------------------+------|
+| Acuité visuelle        |      |
+| Chant                  |      |
+| Charisme               |      |
+| Course                 |      |
+| Danse                  |      |
+| Éloquence              |      |
+| Étquette               |      |
+| Musique, instr à corde |      |
+| Vision nocturne        | 30 m |
+
+
+
+| Compétences de la carrière en cours |   |
+|-------------------------------------+---|
+| Baratin                             |   |
+| Déguisement                         |   |
+| Escamotage                          |   |
+| Évaluation                          |   |
+| Imitation                           |   |
+| Séducion                            |   |
+| Sens de la répartie                 |   |
+
+

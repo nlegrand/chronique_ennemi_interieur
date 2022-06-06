@@ -1,0 +1,55 @@
+| Nom    | Race   | Sexe     | Vocation | Alignement |
+|--------+--------+----------+----------+------------|
+| Werner | Humain | Masculin | Guerrier | Neutre     |
+
+
+| Âge    | Taille | Poids | Cheveux | Yeux  |
+| 20 ans | 1.75 m | 88 kg | Bruns   | Bleus |
+
+
+| Carrière actuelle | Cheminement professionnel | Débouchés                          |
+|-------------------+---------------------------+------------------------------------|
+| Mercenaire        | Manouvrier                | Capitaine mercenaire, Chef rebelle |
+
+
+|                  | M |     CC |   CT | F |   E |    B |   I |  A | Dex |  Cd | Int |   Cl | FM | Soc |
+|------------------+---+--------+------+---+-----+------+-----+----+-----+-----+-----+------+----+-----|
+| Profil initial   | 3 |     37 |   32 | 4 |   4 |    7 |  31 |  1 |  32 |  37 |  27 |   31 | 35 |  38 |
+| Plan de carrière |   | + 10 x | + 10 |   | +1x | +2 x | +10 | +1 |     | +10 |     | +10x |    |     |
+|------------------+---+--------+------+---+-----+------+-----+----+-----+-----+-----+------+----+-----|
+| Profil actuel    | 3 |     47 |   32 |   |   5 |    8 |  31 |  1 |  32 |  37 |  27 |   41 | 35 |  38 |
+
+
+| 910 | total xp         |
+|-----+------------------|
+| 100 | CC               |
+| 100 | E                |
+| 100 | B                |
+| 100 | Cl               |
+| 100 | Mercenaire       |
+|-----+------------------|
+| 410 | Reste à dépenser |
+#+TBLFM: @>$1=@1-vsum(@2..@-1)
+
+
+| Compétences acquises  |      |
+|-----------------------+------|
+| Chant                 |      |
+| Conduite d’attelage   |      |
+| Désarmement           |      |
+| Escalade              |      |
+| Esquive               |      |
+| Résistance accrue     |      |
+| Résistance à l’alcool |      |
+| Travail du bois       |      |
+
+
+
+| Compétences de la carrière en cours  |   |
+|--------------------------------------+---|
+| Coups assomants                      |   |
+| Coups puissants                      |   |
+
+
+
+
