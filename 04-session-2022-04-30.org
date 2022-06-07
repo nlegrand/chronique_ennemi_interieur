@@ -1,0 +1,74 @@
+#+title: Session du 2022-04-30
+
+* Mitterfrühl
+
+Wanda, Malmir et Harbull se rendent chez Teugen
+qui les reçoit. Teugen les rassure que la ville fait tout ce qui est
+en son pouvoir pour élucider le meurtre de Gottri et veiller à ce que
+rien de grave n'arrive. Les trois remarquent l'extrême paleur de
+Teugen, ses canines anormalement pointu et le voient boire un liquide
+rouge foncé et pâteux.
+
+* Pflugzeit, 1 Wellentag
+
+Le deuxième jour de la Schaffenfest, les aventuriers rendent visite à
+Richter. Ce dernier à les yeux et la langue gonflée. Harbulle
+reconnaît une maladie liée à une malédiction et connaît le remède. Il
+ne trouve pas les ingrédients nécessaires auprès d'Elvyra Kleinestun,
+l'herboriste et charlatan de Weissbrück. Il contacte plus tard le
+médecin de Richter, Reinhold Heichtdorn qui le remercie pour son
+diagnostique et son traitement. Sans traitement, Richter meurt dans la
+semaine.
+
+Plus tard, les aventuriers sont invités à la truite d'or par Friedrich
+Magirius. Ce dernier leur parle de l'Ordo Septenarius, en leur
+décrivant une œuvre de bienfaisance qui consiste à enrichir les plus
+riches familles de la ville pour que leurs richesse ruissellent sur
+les plus démunis.
+
+Les aventuriers croisent dans la journée Ulthar l'Instable qui
+harangue la foule :
+
+#+BEGIN_QUOTE
+J'en vois sept et j'en vois neuf et ils seront tous à moi, moi moi !
+L'étoile dans un cercle est un signe de mort.
+Prenez garde à l'homme qui n'est pas un homme.
+#+END_QUOTE
+
+Les aventuriers s'approchent de lui, il a peur à la vue de Wanda, la
+pointe du doigt en criant :
+
+#+BEGIN_QUOTE
+La marque est sur toi ! Prenez garde aux pourvoyeurs de Chaos !
+#+END_QUOTE
+
+Il s'enfuit ensuite. Plus tard dans la journée, les aventuriers
+apprennent qu'il s'est fait tuer chez lui.
+
+Kristen fait rencontrer aux aventuriers Baumann, le chef de la guilde
+des voleurs. Ce dernier a entendu des rumeurs de cris autour du temple
+des égouts. Les voleurs ont pu voir par moment des cadavres de clodo à
+qui on avait arraché le cœur dans les égouts. Baumann a l'air inquiet
+des craintes exprimées par Werner et propose de rester en contact avec
+les aventuriers.
+
+Le soir, la Mallune semble avoir grossi dans le ciel. Elle se
+rapproche de la ville et arbore un rictus dément.
+
+* 2 Aubentag
+Le lendemain, Harbulle reçoit une missive du docteur Heichtdorn :
+
+#+BEGIN_QUOTE
+Cher confrère,
+
+après vérification, votre diagnostique semble être le bon et je vais
+mettre en place le traitement pour sauver le magistrat Richter. Un
+grand merci pour votre aide. C'est la deuxième fois que cette maladie
+étrange frappe à Bögenhaffen, j'espère que cette fois, nous pourrons
+sauver celui qui la porte !
+
+Veuillez agréer monsieur à l'expression de mes salutations les plus
+sincères,
+
+Heichtdorn
+#+END_QUOTE

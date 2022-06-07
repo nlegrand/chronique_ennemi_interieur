@@ -76,7 +76,7 @@ devra se reposer encore avant d'être à nouveau complètement sur pied.
 | Werner  | 2 CO 16/2  |
 
 
-*** 26 Aubentag (partie du 2024-03-11)
+*** 26 Aubentag (partie du 2022-03-11)
 
 Départ puis arrivée à Altdorf en fin d'après-midi. Deux hommes
 étranges font des signes à Wanda sans que celle-ci n'en comprenne la
@@ -186,7 +186,7 @@ l'année. C'est en général signe de mauvais présage.
 Les aventuriers repèrent le bâtiment qui se trouve au dessus du temple
 des égouts, il s'agit des bureaux de la famille Steinhäger. Les
 aventuriers décident d'y rentrer par effraction la nuit. Il y trouve
-un [[file:ombres_sur_bogenhafen/ADJ/invitation_joannes.jpg][papier]] invitant tous les membres du conseil à se retrouver chez
+un [[file:aventure-02-ombres_sur_bogenhafen/ADJ/invitation_joannes.jpg][papier]] invitant tous les membres du conseil à se retrouver chez
 Johannes Teugen.
 
 En se dirigeant vers chez Teugen, mais n'arrivent que pour voir les
@@ -266,6 +266,7 @@ sincères,
 Heichtdorn
 #+END_QUOTE
 
+(session du 14 mai)
 En allant rendre visite à Heichtdorn, les aventuriers apprennent que
 la précédente personne a avoir contracté cette maladie est Karl
 Teugen, le frère que Johannes Teugen a remplacé après sa mort.
@@ -274,7 +275,7 @@ Teugen, le frère que Johannes Teugen a remplacé après sa mort.
 aborde les aventuriers pour leurs parler en secret. Il leur apprend
 que l’ordo septenarius s’apprête à faire un rituel ce soir qui
 implique un sacrifice humain, ce que Magirius se refuse à faire. Il
-montre aux joueurs, la [[file:ombres_sur_bogenhafen/ADJ/lettre_etelka_herzen.jpg][lettre]] d’une certaine Etelka Herzen qui
+montre aux joueurs, la [[file:aventure-02-ombres_sur_bogenhafen/ADJ/lettre_etelka_herzen.jpg][lettre]] d’une certaine Etelka Herzen qui
 détaille la procédure.
 
 Les aventuriers sont aussi contactés par la guildes des voleurs, qui
