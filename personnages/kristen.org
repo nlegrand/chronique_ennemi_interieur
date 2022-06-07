@@ -1,0 +1,60 @@
+| Nom           | Race    | Sexe    | Vocation | Alignement |
+|---------------+---------+---------+----------+------------|
+| Kristen Krank | Humaine | Féminin | Filou    | Neutre     |
+
+
+| Âge    | Taille | Poids | Cheveux | Yeux   |
+| 18 ans | 1.70 m | 57 kg | Bruns   | Violet |
+
+
+| Carrière actuelle    | Cheminement professionnel | Débouchés                                                   |
+|----------------------+---------------------------+-------------------------------------------------------------|
+| Voleur (cambrioleur) | Voleur (général)          | Charlatan, Garde du corps, hors-la-loi, racketteuse, voleur |
+
+
+|                  | M |     CC |     CT | F | E |     B |     I | A |   Dex | Cd | Int | Cl | FM |   Soc |
+|------------------+---+--------+--------+---+---+-------+-------+---+-------+----+-----+----+----+-------|
+| Profil initial   | 4 |     31 |     30 | 3 | 3 |     6 |    38 | 1 |    35 | 28 |  33 | 34 | 29 |    30 |
+| Plan de carrière |   | + 10 x | + 10 x |   |   | +2 xx | +10 x |   | +10 x |    |     |    |    | + 10x |
+|------------------+---+--------+--------+---+---+-------+-------+---+-------+----+-----+----+----+-------|
+| Profil actuel    | 4 |     41 |     40 | 3 | 3 |     8 |    48 | 1 |    35 | 28 |  33 | 34 | 29 |    40 |
+
+
+| 910 | total xp             |
+|-----+----------------------|
+| 100 | CC                   |
+| 100 | CT                   |
+| 100 | B                    |
+| 100 | B                    |
+| 100 | I                    |
+| 100 | Dex                  |
+| 100 | Soc                  |
+| 100 | Voleur (cambrioleur) |
+|-----+----------------------|
+| 110 | Reste à dépenser     |
+#+TBLFM: @>$1=@1-vsum(@2..@-1)
+
+
+| Compétences acquises               |   |
+|------------------------------------+---|
+| Acuité auditive                    |   |
+| Camouflage, urbain                 |   |
+| Corruption                         |   |
+| Déplacement silencieux, urbain     |   |
+| Déplacement silencieux, rural      |   |
+| Langage secret, langue des voleurs |   |
+| Pictographie, voleurs              |   |
+| Sixième sens                       |   |
+
+
+
+| Compétences de la carrière en cours |   |
+|-------------------------------------+---|
+| Crochetage de serrures              |   |
+| Escalade                            |   |
+| Perception des alarmes magiques     |   |
+| Reconnaissance des pièges           |   |
+
+
+
+
