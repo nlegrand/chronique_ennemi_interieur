@@ -1,19 +1,20 @@
 Ce dépôt sert de note pour suivre une instance de la campagne l'ennemi
 intérieur. On y trouve :
 
-- [[./chronique_2512.org][la chronique de l'année 2512]] avec le détail des sessions :
-  - [[file:01-session-2022-03-05.org][1re session]],
-  - [[file:02-session-2022-03-11.org][2e session]],
-  - [[file:03-session-2022-03-18.org][3e session]],
-  - [[file:04-session-2022-04-09.org][4e session]],
-  - [[file:05-session-2022-04-30.org][5e session]],
-  - [[file:06-session-2022-05-14.org][6e session]],
-  - [[file:07-intertemps.org][intertemps entre /Ombres sur Bögenhafen/ et /Mort sur le Reik/]] ;
-- [[./comptes.org][les comptes des aventuriers]] ;
-- [[./encombrement.org][l'encombrement des aventuriers]] :
+- [[file:sessions/chronique_2512.org][la chronique de l'année 2512]] avec le détail des sessions :
+  - [[file:sessions/01-session-2022-03-05.org][1re session]],
+  - [[file:sessions/02-session-2022-03-11.org][2e session]],
+  - [[file:sessions/03-session-2022-03-18.org][3e session]],
+  - [[file:sessions/04-session-2022-04-09.org][4e session]],
+  - [[file:sessions/05-session-2022-04-30.org][5e session]],
+  - [[file:sessions/06-session-2022-05-14.org][6e session]],
+  - [[file:sessions/07-intertemps.org][intertemps entre /Ombres sur Bögenhafen/ et /Mort sur le Reik/]] ;
+- [[file:personnages/personnages.org][Données aventuriers]] ;
+- [[file:personnages/warhammer_pretires_camp_imp.pdf][les fiches au début de la campagne]] ;
 - les fiches de personnages de la campagne :
   - [[file:personnages/harbull.org][Harbull]],
   - [[file:personnages/wanda.org][Wanda]],
   - [[file:personnages/johan.org][Johan]],
   - [[file:personnages/malmir.org][Malmir]],
+  - [[file:personnages/kristen.org][Kristen]],
   - [[file:personnages/werner.org][Werner]].
