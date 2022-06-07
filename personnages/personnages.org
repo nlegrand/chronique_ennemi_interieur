@@ -19,12 +19,12 @@
 
 | M | CC | CT | F | E | B   |  I | A | Personnage       | Arme           |
 |---+----+----+---+---+-----+----+---+------------------+----------------|
-| 5 | 40 | 33 | 3 | 3 | /5  | 65 | 1 | Malmir           | épée, arc long |
-| 4 | 23 | 33 | 2 | 2 | 2/6 | 50 | 1 | Harbull          | dague, fronde  |
-| 5 | 34 | 35 | 3 | 6 | /6  | 47 | 1 | Johann           | épée           |
-| 4 | 31 | 30 | 3 | 3 | 3/6 | 38 | 1 | Kristen          | épée           |
-| 4 | 34 | 31 | 2 | 3 | /6  | 35 | 1 | Wanda            | dague          |
-| 3 | 37 | 32 | 4 | 4 | /7  | 31 | 1 | Werner           | dague          |
+| 5 | 50 | 43 | 3 | 3 | /7  | 65 | 1 | Malmir           | épée, arc long |
+| 4 | 23 | 33 | 2 | 2 | /6  | 50 | 1 | Harbull          | dague, fronde  |
+| 5 | 44 | 45 | 4 | 3 | /8  | 57 | 1 | Johann           | épée           |
+| 4 | 31 | 30 | 3 | 3 | /6  | 38 | 1 | Kristen          | épée           |
+| 4 | 34 | 31 | 2 | 3 | /7  | 33 | 1 | Wanda            | dague          |
+| 3 | 47 | 32 | 4 | 5 | /8  | 31 | 1 | Werner           | dague          |
 
 * les comptes
 Les PJ dépensent en moyenne 36 sous par jour, 60 s'ils passent la nuit
@@ -32,13 +32,13 @@ Les PJ dépensent en moyenne 36 sous par jour, 60 s'ils passent la nuit
 
 | PJ      | CO | Pistoles | Sous | totaux en sous |
 |---------+----+----------+------+----------------|
-| Harbull | 13 |        9 |   10 |           3238 |
-| Wanda   | 12 |        7 |   10 |           2974 |
-| Johann  | 14 |       14 |   10 |           3538 |
-| Malmir  | 14 |        6 |    1 |           3433 |
-| Kristen | 14 |        7 |    4 |           3448 |
-| Werner  |  8 |       14 |    0 |           2088 |
-| Totaux  | 53 |        3 |    9 |          18719 |
+| Harbull |  4 |       19 |   10 |           1198 |
+| Wanda   |  3 |       17 |   10 |            934 |
+| Johann  |  6 |        4 |   10 |           1498 |
+| Malmir  |  5 |       16 |    1 |           1393 |
+| Kristen |  5 |       17 |    4 |           1408 |
+| Werner  |  0 |        4 |    0 |             48 |
+| Totaux  | 77 |       19 |   11 |           6479 |
 #+TBLFM: @2$2..@>$2=$5\240::@2$3..@>$3=($5\12)%20::@2$4..@>$4=$5%12::@8$5=vsum(@2..@7)
 
 * L'encombrement
@@ -103,8 +103,9 @@ Les PJ dépensent en moyenne 36 sous par jour, 60 s'ils passent la nuit
  | 3 couteaun de lancer |  30 |
  | vêtements ordinaire  |  12 |
  | 1 grand sac          |   7 |
- | total                | 109 |
- #+TBLFM: @6$2=vsum(@2..@-1)
+ | Outils de voleur     |  20 |
+ | total                | 129 |
+ #+TBLFM: @>$2=vsum(@2..@-1)
 
 ** Werner (max 400)
 
