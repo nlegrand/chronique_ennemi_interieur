@@ -8,7 +8,7 @@ intérieur. On y trouve :
   - [[file:04-session-2022-04-09.org][4e session]],
   - [[file:05-session-2022-04-30.org][5e session]],
   - [[file:06-session-2022-05-14.org][6e session]],
-  - [[file:07-intertemps.org][intertemps entre /Ombres sur Bögenhafen/ et /Mort sur le Reik/]],
+  - [[file:07-intertemps.org][intertemps entre /Ombres sur Bögenhafen/ et /Mort sur le Reik/]] ;
 - [[./comptes.org][les comptes des aventuriers]] ;
 - [[./encombrement.org][l'encombrement des aventuriers]] :
 - les fiches de personnages de la campagne :
