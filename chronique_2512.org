@@ -2,100 +2,28 @@
 
 ** Jahrdrung
 
-*** 24 Festag (partie du 2022-03-05)
+*** 24 Festag
+[[file:01-session-2022-03-05.org][(partie du 2022-03-05)]]
 
-Début de l'aventure ([[./erreur_sur_la_personne.org][Erreur sur la personne]]), les aventuriers arrivent
+Début de l'aventure ([[./aventure-01-aventure-01-erreur_sur_la_personne.org][Erreur sur la personne]]), les aventuriers arrivent
 en soirée au relais du Cocher et ses chevaux.
-
-La troupe rencontre les cochers de la ligne Ratchett et paie leur
-trajet pour Altdorf.
-
-Ils jouent un peu aux cartes contre Philippe Descartes, boivent de la
-bière et mangent des saucisses. Malmir joue de la musique pour le plus
-grand plaisir de tous.
-
-Tout le monde part se coucher.
-
-**** Comptes
-
-| Harbull | 11 CO /- |
-| Wanda   | 10 CO /- |
-| Johann  | 12 CO /- |
-| Malmir  | 12 CO /- |
-| Kristen | 12 CO /- |
-| Werner  | 6 CO /-  |
-
-| Coût de la nuit              | 2/  |
-| Coût du repas et de la bière | 2/9 |
-
-Malmir récolte 3 pistole et 8 sous pour sa musique.
-
-| Harbull | 9 CO 16/2  |
-| Wanda   | 8 CO 16/2  |
-| Johann  | 10 CO 16/2 |
-| Malmir  | 11 CO 19/11 |
-| Kristen | 10 CO 16/2 |
-| Werner  | 4 CO 16/2  |
-
 
 *** 25 Wellentag
 
-Départ pour Altdorf. Les cochers ont la gueule de bois. Harbull leur
-fournit un petit remède qui lui permet de voyager gratuitement. Sur la
-route les aventuriers tombent sur une horde de mutant qui venaient
-d'embusquer et massacrer une calèche.
-
-Werner en tue courageusement un à la dague. Kristen, Malmir et Harbull
-en défont un autre à distance, puis après avoir été terriblement
-frappé par Knud leur chef, Malmir tue ce dernier d'une flèche. Malmir
-est grièvement blessé, Harbull n'arrive pas à le soigner.
+Départ pour Altdorf. Sur la route les aventuriers tombent sur une
+horde de mutant qui venaient d'embusquer et massacrer une calèche.
 
 Kristen trouve un cadavre ressemblant trait pour trait à Wanda. Dans
-la poche du cadavre un [[./erreur_sur_la_personne/ADJ/document 03 & 04.jpg][testament]] léguant une baronnie et 20000 CO à
+la poche du cadavre un [[./aventure-01-erreur_sur_la_personne/ADJ/document 03 & 04.jpg][testament]] léguant une baronnie et 20000 CO à
 Kastelle Lieberung. Un autre papier stipule que la porteuse du
 document est bien Kastelle Lieberung.
 
-Dame Isolde fait monter sa boniche et son garde du corps sur la
-calèche pour que Malmir soit confort à l'intérieur.
-
-Le soir au relais, Dame Isolde von Strudeldorf (sic) paie un
-chirurgien pour soigner Malmir. Il récupère 3 points de blessure. Il
-devra se reposer encore avant d'être à nouveau complètement sur pied.
-
-**** Comptes
-
-| Coût de la nuit              | 2/   |
-| Coût du repas et de la bière | 3/   |
-| Coût du trajet               | 2 CO |
-
-| Harbull | 7 CO 11/2  |
-| Wanda   | 6 CO 9/2   |
-| Johann  | 8 CO 16/2  |
-| Malmir  | 8 CO 14/11 |
-| Kristen | 8 CO 16/2  |
-| Werner  | 2 CO 16/2  |
-
-
-*** 26 Aubentag (partie du 2022-03-11)
+*** 26 Aubentag
 
 Départ puis arrivée à Altdorf en fin d'après-midi. Deux hommes
-étranges font des signes à Wanda sans que celle-ci n'en comprenne la
-signification, les deux hommes finissent pas se lancer à la suite d'un
-homme trapue. Les aventuriers rencontre Josef Quartjin, un vieil ami
-de Johann, qui leur propose de les embaucher pour l'aider à mener sa
-barge à Bögenhaffen.
-
-Dans une auberge, les joueurs se font provoquer par des jeunes nobles
-stupides et fins saouls. Un début de bagarre se déclenche puis tout le
-monde s'en va.
-
-En allant au bateau les aventuriers remarquent que les deux hommes
-étranges qui avaient fait des signes à Wanda les suivent. Les joueurs
-cherchent à les piéger mais ils ne retrouvent que leurs cadavres,
-tués à coup de carreaux d'arbalète.
-
-En fouillant les cadavres, les aventuriers découvrent qu'ils portent
-tous les deux une main mauve tatouée sur le sein droit.
+étranges font des signes à Wanda. Les aventuriers rencontre Josef
+Quartjin, un vieil ami de Johann, qui leur propose de les embaucher
+pour l'aider à mener sa barge à Bögenhaffen.
 
 *** 27 Marktag
 Le matin, les aventuriers apprennent qu'un des nobles qui les avaient
@@ -108,7 +36,7 @@ Journée paisible sur le canal
 
 *** 29 Bezahltag
 Arrivée à Weißbrück. Les aventuriers repèrent l'homme trapue aperçu à
-Altdorf, armé d'une arbalète. Sur leur garde, ils se font attaqués le
+Altdorf, armé d'une arbalète. Sur leur garde, ils se font attaquer le
 soir par le même homme et trois brute qui incendie le bateau. Pendant
 que Josef et son équipage éteint le feu, les aventuriers tuent les
 brutes puis l'homme trapu, Adolphus Kuftsos.
@@ -130,225 +58,49 @@ Arrivée à Bögenhaffen, début de la Schaffenfest.
 
 Les aventuriers apprennent que l'héritage était en fait un canular.
 
-Harbull bourré défie un lutteur professionnel et manque de mourir.
+Rechercher d’un gobelin à trois pattes dans les égoûts, découverte
+d’un temple étrange.
 
-Malmir rattrape un gobelin à trois pattes pour le compte du Docteur
-Malthusius, un montreur de foire.
+[[file:04-session-2022-04-09.org][(partie du 2022-04-09)]]
 
-Plus tard, le gobelin s’enfuit à nouveau et file dans les
-canalisations de la ville. Le magistrat Richter, craignant que le
-gobelin sème le panique en ville et Le docteur Malthusius, souhaitant
-récupérer sa précieuse créature demandent aux aventuriers d’aller le
-chercher dans les égouts de la ville.
+Les aventuriers découvrent le corps de Gottri Gurnisson.
 
-Durant leur chemin dans les égouts, les aventuriers trouvent une
-entrée d’une planque de la guilde des voleurs. Ils trouvent enfin un
-temple, d’où une traînée de sang se déverse dans le canal. Ils
-trouvent dans le temple les restes du gobelin, mangé par un démon qui
-fait fuir les aventuriers.
+[[file:05-session-2022-04-30.org][(partie du 2022-04-30)]]
 
-Les aventuriers ont le temps de noter quelques détails :
-
-- un pentacle dessiné à l’intérieur d’un cerceau de cuivre, au cœur du
-  pentacle se trouve une tête de bête autour de laquelle on peut lire
-  « Ordo Septenarius » ;
-- prêt d’une armoire vous apercevez un mouchoir avec les initiales
-  FS.
-
-(partie du 2022-04-09) En sortant des égouts, les aventuriers
-apprennent avec surprise que le gobelin dont ils ont vu les restes
-dans les égouts est dit avoir été tué par la chute d'une caisse dans
-un entrepôt au bord de la rivière. Ne pouvant être payé sans plus de
-preuve les aventuriers retournent dans les égouts. Le temple avait été
-complètement nettoyé. En allant plus loin, les aventuriers découvrent
-le corps mutilé de Gottri Gurnisson, le nain clodo bourré avec qui ils
-avaient sympathisé. Le cœur de ce dernier a été arraché.
-
-La garde n'est pas très impressionnée par la découverte des
-aventuriers et envoie le corps à la guilde des pleureurs. En cherchant
-à contacter Richter, ces derniers apprennent qu'il est brusquement
-tombé malade.
-
-Les aventuriers entendent parler d'un énergumène, Ulthar l’instable
-disant que la ville était condamnée et qu'on le verrait dans le visage
-de la lune.
-
-En faisant des recherches au temple de Verena, les aventuriers
-apprennent que l'ordo Septenarius est une société semi secrète de
-bienfaiteurs composée des grandes familles de marchand de la
-ville. Ils font régulièrement des donations aux temples de Shalya et
-de Bögenauer.
-
-Le soir, les aventuriers constatent médusés que Morslieb, la lune du
-chaos est pleine, ce qui est anormal en cette période de
-l'année. C'est en général signe de mauvais présage.
-
-Les aventuriers repèrent le bâtiment qui se trouve au dessus du temple
-des égouts, il s'agit des bureaux de la famille Steinhäger. Les
-aventuriers décident d'y rentrer par effraction la nuit. Il y trouve
-un [[file:aventure-02-ombres_sur_bogenhafen/ADJ/invitation_joannes.jpg][papier]] invitant tous les membres du conseil à se retrouver chez
-Johannes Teugen.
-
-En se dirigeant vers chez Teugen, mais n'arrivent que pour voir les
-membres invités partir de chez l'édile. Les rues se vident et la nuit
-devient paisible si ce n’est l’inquiétante présence de la Mallune.
-
-(partie du 2022-04-30) Wanda, Malmir et Harbull se rendent chez Teugen
-qui les reçoit. Teugen les rassure que la ville fait tout ce qui est
-en son pouvoir pour élucider le meurtre de Gottri et veiller à ce que
-rien de grave n'arrive. Les trois remarquent l'extrême paleur de
-Teugen, ses canines anormalement pointu et le voient boire un liquide
-rouge foncé et pâteux.
-
+Wanda, Malmir et Harbull se rendent chez Teugen qui les reçoit. Teugen
+les rassure que la ville fait tout ce qui est en son pouvoir pour
+élucider le meurtre de Gottri et veiller à ce que rien de grave
+n'arrive.
 
 ** PFLUGZEIT
 
 *** 1 Wellentag
-Le deuxième jour de la Schaffenfest, les aventuriers rendent visite à
-Richter. Ce dernier à les yeux et la langue gonflée. Harbulle
-reconnaît une maladie liée à une malédiction et connaît le remède. Il
-ne trouve pas les ingrédients nécessaires auprès d'Elvyra Kleinestun,
-l'herboriste et charlatan de Weissbrück. Il contacte plus tard le
-médecin de Richter, Reinhold Heichtdorn qui le remercie pour son
-diagnostique et son traitement. Sans traitement, Richter meurt dans la
-semaine.
-
-Plus tard, les aventuriers sont invités à la truite d'or par Friedrich
-Magirius. Ce dernier leur parle de l'Ordo Septenarius, en leur
-décrivant une œuvre de bienfaisance qui consiste à enrichir les plus
-riches familles de la ville pour que leurs richesse ruissellent sur
-les plus démunis.
-
-Les aventuriers croisent dans la journée Ulthar l'Instable qui
-harangue la foule :
-
-#+BEGIN_QUOTE
-J'en vois sept et j'en vois neuf et ils seront tous à moi, moi moi !
-L'étoile dans un cercle est un signe de mort.
-Prenez garde à l'homme qui n'est pas un homme.
-#+END_QUOTE
-
-Les aventuriers s'approchent de lui, il a peur à la vue de Wanda, la
-pointe du doigt en criant :
-
-#+BEGIN_QUOTE
-La marque est sur toi ! Prenez garde aux pourvoyeurs de Chaos !
-#+END_QUOTE
-
-Il s'enfuit ensuite. Plus tard dans la journée, les aventuriers
-apprennent qu'il s'est fait tuer chez lui.
-
-Kristen fait rencontrer aux aventuriers Baumann, le chef de la guilde
-des voleurs. Ce dernier a entendu des rumeurs de cris autour du temple
-des égouts. Les voleurs ont pu voir par moment des cadavres de clodo à
-qui on avait arraché le cœur dans les égouts. Baumann a l'air inquiet
-des craintes exprimées par Werner et propose de rester en contact avec
-les aventuriers.
+Le deuxième jour de la Schaffenfest, Harbull soigne Richter, Ulthar
+l’instable menace Wanda. Kristen rencontre la guilde des voleurs.
 
 Le soir, la Mallune semble avoir grossi dans le ciel. Elle se
 rapproche de la ville et arbore un rictus dément.
 
 *** 2 Aubentag
-Le lendemain, Harbulle reçoit une missive du docteur Heichtdorn :
+[[file:06-session-2022-05-14.org][(partie du 2022-05-14)]]
 
-#+BEGIN_QUOTE
-Cher confrère,
+Magirius est tué en cherchant à aider les aventuriers. Ces derniers
+sont accusés de son meurtre. Ils réussisent à empêcher Teugen de mener
+à bien son rituel et doivent fuir la ville.
 
-après vérification, votre diagnostique semble être le bon et je vais
-mettre en place le traitement pour sauver le magistrat Richter. Un
-grand merci pour votre aide. C'est la deuxième fois que cette maladie
-étrange frappe à Bögenhaffen, j'espère que cette fois, nous pourrons
-sauver celui qui la porte !
+*** 3 Marktag
 
-Veuillez agréer monsieur à l'expression de mes salutations les plus
-sincères,
+[[file:07-intertemps.org][(Intertemps entre /Ombres sur Bögenhaffen/ et /Mort sur le Reik/)]]
+    
+*** 27 Backertag
+Les Aventuriers se retrouvent tous à Delberz
+*** 28 Bezahltag
+*** 29 Konigstag
+*** 30 Angerstag
+*** 31 Festag
+*** 32 Wellentag
+*** 33 Aubentag
 
-Heichtdorn
-#+END_QUOTE
+* Sigmarzeit
 
-(session du 14 mai)
-En allant rendre visite à Heichtdorn, les aventuriers apprennent que
-la précédente personne a avoir contracté cette maladie est Karl
-Teugen, le frère que Johannes Teugen a remplacé après sa mort.
-
-À leur sortie de la guilde des médecins, Magirius caché sous une cape
-aborde les aventuriers pour leurs parler en secret. Il leur apprend
-que l’ordo septenarius s’apprête à faire un rituel ce soir qui
-implique un sacrifice humain, ce que Magirius se refuse à faire. Il
-montre aux joueurs, la [[file:aventure-02-ombres_sur_bogenhafen/ADJ/lettre_etelka_herzen.jpg][lettre]] d’une certaine Etelka Herzen qui
-détaille la procédure.
-
-Les aventuriers sont aussi contactés par la guildes des voleurs, qui
-leur annonce que Boris, un de leurs membres arrêté par la garde a été
-escorté hors de la prison par des hommes de main de Teugen.
-
-Dans l’après-midi, les aventuriers reçoivent un message de Magirius
-qui les invite à le rejoindre chez lui. Quand ils arrivent dans son
-étude, Magirius est mort, la gorge tranché. Avec son sang il a marque
-« ENTRPT » et un chiffre, 13 ou 17.
-
-Le page aux yeux vert qui les avait amenés appelle les gardes et leur
-dit sur un ton démoniaque « vous auriez vraiment mieux fait de vous
-occuper de vos affaires », et il disparaît.
-
-Les aventuriers se cachent chacun de leur côté, mais Wanda se fait
-prendre par la garde. Elle est libérée plus tard par la guilde des
-voleurs.
-
-Le soir les aventuriers se rendent aux entrepôts 13 et 17, et
-déduisent de la configuration que le rituel aura lieux dans le 17. Les
-cultistes arrivent tour à tour, préparent le pentacle et amènent la
-victime au centre. Alors que Teugen et son cousin aux yeux vert
-s’apprêtent à commencer le rituel, les aventuriers attaquent.
-
-Après s’être vaillamment battu, Malmir et Wanda sont mis à terre par
-les boule de feu du cousin de Teugen.
-
-Quand Johann tue un des cultistes, Teugen semble perdre son calme et
-finit par s’enfuir un hurlant. Werner, finit par achever le cousin de
-Teugen qui se transforme en démon. On entend alors une voix terrible
-appeler « Gidéon, où est mon portail ? » Une main gigantesque sort de
-l’air, attrape et emporte le démon qui hurle à la mort.
-
-La Guilde des voleurs expliquera plus tard aux aventuriers que Teugen
-parcourut la ville en hurlant et qu’à minuit, il disparut subitement.
-
-Les aventuriers ont sauvé Bögenhaffen en empêchant qu’un portail du
-Chaos y soit ouvert, mais ils sont toujours recherchés pour le meurtre
-de Magirius. Ils sont soignés par le docteur Heichtdorn qui fait une
-lettre de recommandation à Harbull. La guilde des voleurs et le
-docteur Heichtdorn promettent de veiller à ce que l’Ordo Septenarius
-ne renaisse pas de ses cendres. Les aventuriers partent au petit matin
-à bord du Beribeli pour de nouvelles aventures.
-
-*** 3
-*** 4
-*** 5
-*** 6
-*** 7
-*** 8
-*** 9
-*** 10
-*** 11
-*** 12
-*** 13
-*** 14
-*** 15
-*** 16
-*** 17
-*** 18
-*** 19
-*** 20
-*** 21
-*** 22
-*** 23
-*** 24
-*** 25
-*** 26
-*** 27
-*** 28
-*** 29
-*** 30
-*** 31
-*** 32
-*** 33
+*** 1 Marktag
