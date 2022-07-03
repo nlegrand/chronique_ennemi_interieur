@@ -1,6 +1,6 @@
-| Nom    | Race   | Sexe     | Vocation | Alignement |
-|--------+--------+----------+----------+------------|
-| Werner | Humain | Masculin | Guerrier | Neutre     |
+| Nom   | Race   | Sexe     | Vocation | Alignement |
+|-------+--------+----------+----------+------------|
+| Franz | Humain | Masculin | Guerrier | Neutre     |
 
 
 | Âge    | Taille | Poids | Cheveux | Yeux  |
@@ -47,7 +47,7 @@
 
 | Compétences de la carrière en cours  |   |
 |--------------------------------------+---|
-| Coups assomants                      |   |
+| Coups assommants                     |   |
 | Coups puissants                      |   |
 
 
