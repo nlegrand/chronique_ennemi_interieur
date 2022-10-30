@@ -8,7 +8,8 @@ intérieur. On y trouve :
   - [[file:sessions/04-session-2022-04-09.org][4e session]],
   - [[file:sessions/05-session-2022-04-30.org][5e session]],
   - [[file:sessions/06-session-2022-05-14.org][6e session]],
-  - [[file:sessions/07-intertemps.org][intertemps entre /Ombres sur Bögenhafen/ et /Mort sur le Reik/]] ;
+  - [[file:sessions/07-intertemps.org][intertemps entre /Ombres sur Bögenhafen/ et /Mort sur le Reik/]] ,
+  - [[file:sessions/08-session-2022-07-05.org][7e session]] ;
 - [[file:personnages/personnages.org][Données aventuriers]] ;
 - [[file:personnages/warhammer_pretires_camp_imp.pdf][les fiches au début de la campagne]] ;
 - les fiches de personnages de la campagne :
