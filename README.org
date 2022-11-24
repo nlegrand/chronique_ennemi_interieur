@@ -18,4 +18,4 @@ intérieur. On y trouve :
   - [[file:personnages/johan.org][Johan]],
   - [[file:personnages/malmir.org][Malmir]],
   - [[file:personnages/kristen.org][Kristen]],
-  - [[file:personnages/werner.org][Werner]].
+  - [[file:personnages/franz.org][Franz]].

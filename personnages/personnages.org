@@ -24,7 +24,7 @@
 | 5 | 44 | 45 | 4 | 3 | /8  | 57 | 1 | Johann           | épée           |
 | 4 | 31 | 30 | 3 | 3 | /6  | 38 | 1 | Kristen          | épée           |
 | 4 | 34 | 31 | 2 | 3 | /7  | 33 | 1 | Wanda            | dague          |
-| 3 | 47 | 32 | 4 | 5 | /8  | 31 | 1 | Werner           | dague          |
+| 3 | 47 | 32 | 4 | 5 | /8  | 31 | 1 | Franz            | dague          |
 
 * les comptes
 Les PJ dépensent en moyenne 36 sous par jour, 60 s'ils passent la nuit

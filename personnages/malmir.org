@@ -30,6 +30,7 @@
 | 100 | Dex              |
 | 100 | Dex              |
 | 100 | Charlatan        |
+| 100 | Baratin          |
 |-----+------------------|
 | 110 | Reste à dépenser |
 #+TBLFM: @>$1=@1-vsum(@2..@-1)
@@ -46,12 +47,12 @@
 | Étquette               |      |
 | Musique, instr à corde |      |
 | Vision nocturne        | 30 m |
+| Baratin                |      |
 
 
 
 | Compétences de la carrière en cours |   |
 |-------------------------------------+---|
-| Baratin                             |   |
 | Déguisement                         |   |
 | Escamotage                          |   |
 | Évaluation                          |   |

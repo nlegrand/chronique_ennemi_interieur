@@ -1,6 +1,6 @@
-| Nom               | Race    | Sexe    | Vocation | Alignement |
-|-------------------+---------+---------+----------+------------|
-| johan Dassbüt | Humain  | Masculin | Forestier | Neutre     |
+| Nom           | Race   | Sexe     | Vocation  | Alignement |
+|---------------+--------+----------+-----------+------------|
+| johan Dassbüt | Humain | Masculin | Forestier | Neutre     |
 
 
 | Âge    | Taille | Poids | Cheveux       | Yeux     |

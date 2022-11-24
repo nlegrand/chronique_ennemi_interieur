@@ -29,8 +29,10 @@
 | 100 | FM                                 |
 | 100 | Sorcière nv 1                      |
 | 100 | Incantation magie de bataille nv 1 |
+| 200 | Boule de feu                       |
+|  50 | Malédiction                        |
 |-----+------------------------------------|
-| 310 | Reste à dépenser                   |
+|  60 | Reste à dépenser                   |
 #+TBLFM: @>$1=@1-vsum(@2..@-1)
 
 
@@ -53,12 +55,14 @@
 | Sens de la magie                    |   |
 
 
-| PM | 6 |
+| PM | 18 |
 
 
-| Sortilèges | NS | PM | P | D         | composants         | Effets                                  |
-|------------+----+----+---+-----------+--------------------+-----------------------------------------|
-| Ouverture  | M  |  3 | 1 | Inst      | 1 clé d’argent     | Dévérouille les fermetures non magiques |
-| Sommeil    | M  |  2 | T | 1d6 tours | 1 morceau de duvet | Endort une créature de moins de 3 m     |
-
+| Sortilèges   | NS | PM | P    | D                   | composants                      | Effets                                                       |
+|--------------+----+----+------+---------------------+---------------------------------+--------------------------------------------------------------|
+| Ouverture    | M  |  3 | 1    | Inst                | 1 clé d’argent                  | Dévérouille les fermetures non magiques                      |
+| Sommeil      | M  |  2 | T    | 1d6 tours           | 1 morceau de duvet              | Endort une créature de moins de 3 m                          |
+| Boule de feu | 1  |  1 | 48 m | Inst                | Une boule de souffre            | 1d10 +3, peu toucher 1D3 créatures si lancée contre un group |
+| Malédiction  | M  |  1 | 12 m | jusqu’à dissipation | Cheveu, ongle etc de la victime | au choix : verrues, calvitie, odeur de pied, flatulence...   |
+|              |    |    |      |                     |                                 |                                                              |
 
