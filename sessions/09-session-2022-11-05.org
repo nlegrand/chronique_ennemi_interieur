@@ -4,16 +4,17 @@ sont :
 
 - un atelier d’alchimiste, contenant un manuel de nécromancie ;
 - une bibliothèque avec des livres divers datant de plusieurs siècles ;
-- un bureau avec des calculs astronomiques et une carte du Reikland
-  crayonnée ;
-- une pièce centrale avec une étoile à six branche de dessinée au sol.
+- un bureau avec des calculs astronomiques cherchant à prédire le
+  passage de la Mal-lune et une carte du Reikland crayonnée ;
+- une pièce centrale circulaire avec une étoile à six branche de
+  dessinée au sol.
 
 [[file:aventure-03-mort_sur_le_reik/ADJ/document 06.jpg][La carte.]]
 
 Sur chaque zombie, comme sur la goule, les aventuriers ont découvert
 un tube en forme d’étoile. Ces derniers peuvent s’encastrer dans le
-sol à chaque extrêmité de l’étoile à six branches. Malheureusement,
-les aventuriens n’en ont trouvé que cinq.
+sol à chaque extrémité de l’étoile à six branches. Malheureusement,
+les aventuriers n’en ont trouvé que cinq.
 
 * Sigmarzeit, 15 wellentag
 
@@ -28,11 +29,11 @@ receleurs que lui avaient recommandé Josef.
 * Sigmarzeit, 25 Marktag
 
 Peu avant de passer près de Wittgendorf et du château Wittgenstein,
-les aventuriers croisent un bâteau de Marienburg et son interpelé par
+les aventuriers croisent un bateau de Marienburg et son interpellé par
 sa capitaine Gertrude Grolsch. Elle les invite à éviter du mieux
 qu’ils le peuvent le château Wittgenstein, un lieu démoniaque selon
 elle. Elle a repêché aux abords du château le corps d’un humain
-mutilié et modifié qu’elle compte présenter aux autorités de
+mutilé et modifié qu’elle compte présenter aux autorités de
 Kemperbad.
 
 [[file:aventure-03-mort_sur_le_reik/ADJ/illustration_château_wittgenstein.jpg][Le château Wittgenstein]]
