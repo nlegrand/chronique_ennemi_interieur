@@ -5,7 +5,8 @@ sont :
 - un atelier d’alchimiste, contenant un manuel de nécromancie ;
 - une bibliothèque avec des livres divers datant de plusieurs siècles ;
 - un bureau avec des calculs astronomiques cherchant à prédire le
-  passage de la Mal-lune et une carte du Reikland crayonnée ;
+  passage de la Mal-lune et une carte du Reikland crayonnée semblant
+  indiquée les monts stérile dans le Reikland ;
 - une pièce centrale circulaire avec une étoile à six branche de
   dessinée au sol.
 
